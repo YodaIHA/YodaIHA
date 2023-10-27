@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="ytülogo.png" width="200" height="200" title="hover text">
+  <img src="yoda.jpeg" width="200" height="200" title="hover text">
 </p>
 
 <h3 align="left">Connect with us:</h3>
