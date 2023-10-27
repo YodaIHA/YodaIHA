@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="left">
   <img src="yoda.jpeg" width="200" height="200" title="hover text">
 </p>
 
