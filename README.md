@@ -1,8 +1,4 @@
 
-<p align="left">
-  <img src="yoda.jpeg" width="200" height="200" title="hover text">
-</p>
-
 <h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yıldız-otonom-araştırma-ve-dizayn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yıldız-otonom-araştırma-ve-dizayn" height="30" width="40" /></a>
