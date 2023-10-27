@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="ytülogo.png" width="350" title="hover text">
+  <img src="ytülogo.png" width="300" height="300" title="hover text">
 </p>
 
 <h3 align="left">Connect with us:</h3>
